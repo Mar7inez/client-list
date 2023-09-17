@@ -1,6 +1,6 @@
 # Client List Proyect
 
-Stack: Java 11 - React - Postgres
+Stack: Java 11 - Spring - React - Postgres
 
 Description: module/template for creating clients.
 
